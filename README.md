@@ -1,5 +1,6 @@
 ![1_MauKYzAi2lbtbgc9l--NeA](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
+
 <h1 align="center">Hi 👋, I'm Christian Kevin</h1>
 <h3 align="center">A passionate Android Developer and UI/UX Design from Indonesia</h3>
 
@@ -26,3 +27,5 @@ Hello all, let me introduce my self. My name is Kevin, i'm from Institut Teknolo
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrstnkevin&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="chrstnkevin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrstnkevin&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="chrstnkevin" /></p>
+
+![1_YjY6upvT2-KCthRgC3JYjA](https://github.com/Chrstnkevin/Chrstnkevin/assets/97864068/d4d67f32-9bf8-463d-b168-63446c8f52a7)
